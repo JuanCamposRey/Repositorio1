@@ -1,5 +1,5 @@
 Integrantes grupo
 Juan Campos Rey
 Sofia lopez
-Ivan lopez
+Ivan Gonzalez
 Leonel
